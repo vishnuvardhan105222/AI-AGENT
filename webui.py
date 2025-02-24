@@ -708,6 +708,7 @@ def create_ui(config, theme_name="Ocean"):
         with gr.Row():
             gr.Markdown(
                 """
+                ##  Mr.Vishnuvardhan's AI-AGENT 🚀✨
                 # 🌐 Browser Use WebUI
                 ### Control your browser with AI assistance
                 """,
